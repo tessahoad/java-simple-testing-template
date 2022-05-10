@@ -1,0 +1,1 @@
+# java-simple-testing-template
